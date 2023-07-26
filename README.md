@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**gasiri/gasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gastón, I'm from Argentina.
 
-Here are some ideas to get you started:
+* Currently working for Procuracíon General - Poder Judicial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+* Learning Kubernetes 
+* SRE Junior
+* Coding skills
+* DBA
+
+## Contact
+
+Find me at [website](https://www.linkedin.com/in/gastón-iritcity-116497285/)
