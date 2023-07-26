@@ -14,4 +14,4 @@ My name is Gastón, I'm from Argentina.
 
 ## Contact
 
-Find me at [website](https://www.linkedin.com/in/gastón-iritcity-116497285/)
+Find me at [LinkedIn](https://www.linkedin.com/in/gastón-iritcity-116497285/)
